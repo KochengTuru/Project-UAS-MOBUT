@@ -1,0 +1,110 @@
+[22-Jan-2026 11:20:59 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:20:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:21:00 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:21:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:22:47 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:22:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:23:59 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:23:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:01 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:03 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:06 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:07 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:07 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:07 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:07 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:24:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:26:03 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:26:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:26:04 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:26:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 2
+[22-Jan-2026 11:27:12 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:14 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:15 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:15 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:16 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:16 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:16 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:17 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:18 Asia/Jakarta] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
+[22-Jan-2026 11:27:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tifj4825/public_html/salgita.tif-lbj.my.id/api-gaming/auth/register.php on line 6
